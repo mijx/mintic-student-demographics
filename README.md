@@ -4,7 +4,7 @@
 ![alt text](https://github.com/mijx/mintic-student-demographics/blob/main/plots_banner.png?raw=true)
 
 
-This set of visualizations were concerned with answering the question **What demographic characteristics do the students of the digital skills courses offered by MINTIC have**.
+This set of visualizations were concerned with answering the question **What demographic characteristics do the students of the digital skills courses offered by MINTIC have?**
 
 The selected datasets were the **Data Science course** from **2020** and the **Artificial Intelligence** ​​one from **2019**. The country of origin of the data is Colombia, they are national in scope and were obtained from direct source:
 - [Habilidades Digitales Ciencia de datos - 01/20/2020](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Habilidades-digitales-Ciencia-de-datos/8jiy-97ks/about_data)
